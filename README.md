@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bogdwynny
-- 👀 I’m interested in ....
+- 👀 I’m interested in Fintech
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on inovative startups
 - 📫 How to reach me: bogdwynny1@protonmail.com
 
 <!---
